@@ -40,6 +40,8 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 7 - TIPOS DE DADOS E VARIÁVEIS (PT 02)
 
 8 - OPERADORES ARITMÉTICOS
+
+9 - OPERADORES DE ATRIBUIÇÃO                                                                                                                                                  
   
 ##
            Cap 3 - Classe, métodos, atributos      
@@ -51,3 +53,4 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
            Cap 6 - Exceptions mais Vários Design Patterns DP
 ##           
            Cap 7 - Acesso ao Banco de Dados
+                                                                                                                                                  
