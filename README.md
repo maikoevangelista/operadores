@@ -41,8 +41,9 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 
 8 - OPERADORES ARITMÉTICOS
 
-9 - OPERADORES DE ATRIBUIÇÃO                                                                                                                                                  
-  
+9 - OPERADORES DE ATRIBUIÇÃO  
+                                                                                                                                                  
+10 - OPERADORES DE INCREMENTO E DECREMENTO  
 ##
            Cap 3 - Classe, métodos, atributos      
 ##           
