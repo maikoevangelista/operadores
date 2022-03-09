@@ -4,10 +4,10 @@ public class OperadorLogico2 {
 
     public static void main(String[] args) {
 
-        int x = 9, y = 11;
+        int idade = 20;
 
-        boolean teste = x > 10 ^ y >10;
+        boolean maioridade = ! (idade >=18);
 
-        System.out.println();
+        System.out.println(maioridade);
     }
 }
