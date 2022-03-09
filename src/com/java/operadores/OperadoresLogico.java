@@ -4,10 +4,10 @@ public class OperadoresLogico {
 
     public static void main(String[] args){
 
-        int idade = 20;
+        int nrAmarelo = 2, nrVermelho =1;
 
-        boolean precisaVotar = idade >= 18 && idade < 70;
+        boolean suspenso = nrAmarelo == 2 || nrVermelho == 1;
 
-        System.out.println(precisaVotar);
+        System.out.println(suspenso);
     }
 }
