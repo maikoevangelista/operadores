@@ -52,7 +52,7 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
                                                                                                                                                   
 13 - OPERADORES LÓGICOS (PT02)  
                                                                                                                                                   
-CONTINUA REPOSITÓRIO FLUXO  
+CONTINUA REPOSITÓRIO (FLUXO)  
                                                                                                                                                   
 ##
            Cap 3 - Classe, métodos, atributos      
