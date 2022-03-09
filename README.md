@@ -48,6 +48,7 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 11 - OPERADORES DE IGUALDADE E RELACIONAIS                                                                                                                                     
                                                                                                                                                   
 12 - OPERADORES LÓGICOS (PT01)                                                                                                                                                  
+13 - OPERADORES LÓGICOS (PT02)                                                                                                                                                  
 ##
            Cap 3 - Classe, métodos, atributos      
 ##           
