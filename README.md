@@ -45,7 +45,9 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
                                                                                                                                                   
 10 - OPERADORES DE INCREMENTO E DECREMENTO  
 
-11 - OPERADORES DE IGUALDADE E RELACIONAIS                                                                                                                                                  
+11 - OPERADORES DE IGUALDADE E RELACIONAIS                                                                                                                                     
+                                                                                                                                                  
+12 - OPERADORES LÓGICOS (PT01)                                                                                                                                                  
 ##
            Cap 3 - Classe, métodos, atributos      
 ##           
