@@ -50,7 +50,10 @@ CURSO DA FIAP DE JAVA FUNDAMENTOS
 12 - OPERADORES LÓGICOS (PT01)  
                                                                                                                                                   
                                                                                                                                                   
-13 - OPERADORES LÓGICOS (PT02)                                                                                                                                                  
+13 - OPERADORES LÓGICOS (PT02)  
+                                                                                                                                                  
+CONTINUA REPOSITÓRIO FLUXO  
+                                                                                                                                                  
 ##
            Cap 3 - Classe, métodos, atributos      
 ##           
